@@ -1,0 +1,1 @@
+CREATE DATABASE `importiocache` /*!40100 DEFAULT CHARACTER SET utf8 */;
